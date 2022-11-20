@@ -36,8 +36,8 @@
 
 | Mission | PR  | What I Learned |
 | ------- | --- | -------------- |
-| 숫자 야구 게임   | [PR](https://github.com/next-step/java-baseball-precourse/pull/1280) | [Log](https://github.com/next-step/java-racingcar/blob/withbeth/README.md)          | 
-| 자동차 경주 게임 | [PR](https://github.com/next-step/java-racingcar-precourse/pull/871) | [Log](https://github.com/withbeth/java-racingcar-precourse/blob/withbeth/README.md) |
+| 프리코스 - 숫자 야구 게임   | [PR](https://github.com/next-step/java-baseball-precourse/pull/1280) | [Log](https://github.com/next-step/java-racingcar/blob/withbeth/README.md)          | 
+| 프리코스 - 자동차 경주 게임 | [PR](https://github.com/next-step/java-racingcar-precourse/pull/871) | [Log](https://github.com/withbeth/java-racingcar-precourse/blob/withbeth/README.md) |
 | 로또 - TDD| NotYet    |                |
 | Q&A - JPA| NotYet    |                |
 | 지하철 노선도 - ATDD| NotYet     |                |
@@ -46,7 +46,6 @@
 | 성능 테스트 및 모니터링 - 서비스 진단하기| NotYet    |                |
 | 지하철 노선도 - 레거시 코드 리팩토링| NotYet    |                |
 | 화면 응답, 조회 성능 개선하기 - 안정적인 서비스 만들기| NotYet    |                |
-
 
 
 ## Course
@@ -127,6 +126,3 @@ TDD 사이클로 프로그래밍하는 연습과 클래스를 분리하는 경�
 -   1차 네트워킹 데이: 10월 31일(월) 20시 00분 ~ 22시 00분
 -   2차 네트워킹 데이: 11월 14일(월) 20시 00분 ~ 22시 00분
 -   3차 네트워킹 데이: 11월 28일(월) 20시 00분 ~ 22시 00분
-
-
-
